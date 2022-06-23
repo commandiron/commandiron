@@ -2,6 +2,8 @@
 
 take a quick look at my projects;
 
+<img src="https://user-images.githubusercontent.com/50905347/173447657-b6168369-d195-48d8-8d92-b362292ad258.png" width="125" height="265">&nbsp;&nbsp;
+
 <!--
 **commandiron/commandiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
