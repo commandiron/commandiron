@@ -1,4 +1,22 @@
 <div align="center">
+<p align="center">Let's connect!</p>
+
+<a href="https://www.instagram.com/emirdemirli/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/emirdemirli/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/12441504/commandiron">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
