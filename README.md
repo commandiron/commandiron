@@ -1,5 +1,5 @@
-<div align="center">
-<p align="center">Let's connect!</p>
+<div align="left">
+<p align="left">Let's connect!</p>
 
 <a href="https://www.instagram.com/emirdemirli/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -16,8 +16,8 @@
 
 <br>
 
-<div align="center">
-<p align="center">🛠 Tools & Technology</p>
+<div align="left">
+<p align="left">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
