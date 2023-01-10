@@ -3,15 +3,15 @@
 <p align="left">Let's connect!</p>
 
 <a href="https://www.instagram.com/emirdemirli/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-6B7378?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/emirdemirli/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-6B7378.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/12441504/commandiron">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-6B7378?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
 
