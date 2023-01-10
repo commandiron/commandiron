@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/emirdemirli/">
-    <img src="https://img.shields.io/badge/linkedin-21262D.svg?&style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 </a>
 
 <a href="https://stackoverflow.com/users/12441504/commandiron">
