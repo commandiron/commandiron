@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android" />
 <img src="https://img.shields.io/badge/kotlin-21262D?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/ktor-21262D?style=for-the-badge&logo=kotlin" /> 
-<img src="https://img.shields.io/badge/Flutter-21262D?style=for-the-badge&logo=flutter" />
-<img src="https://img.shields.io/badge/Dart-21262D?style=for-the-badge&logo=dart" />
+<img src="https://img.shields.io/badge/Flutter-21262D?style=for-the-badge&logo=flutter&logoColor=41C6F0" />
+<img src="https://img.shields.io/badge/Dart-21262D?style=for-the-badge&logo=dart&logoColor=2AAEE9" />
 <img src="https://img.shields.io/badge/firebase-21262D?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git" />
 
