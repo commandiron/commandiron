@@ -32,7 +32,7 @@
 
 <br>
 
-[![commandiron GitHub stats](https://github-readme-stats.vercel.app/api?username=commandiron)](https://github.com/commandiron/github-readme-stats)
+[![commandiron GitHub stats](https://github-readme-stats.vercel.app/api?username=commandiron&theme=dark)](https://github.com/commandiron/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=commandiron)
 
