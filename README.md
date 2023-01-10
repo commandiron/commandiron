@@ -20,13 +20,13 @@
 <div align="left">
 <p align="left">Tools & Technology</p>
 
-<img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/kotlin-21262D.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/ktor-21262D.svg?style=for-the-badge&logo=kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-21262D?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-21262D?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-21262D?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android" />
+<img src="https://img.shields.io/badge/kotlin-21262D.svg?style=for-the-badge&logo=kotlin" />
+<img src="https://img.shields.io/badge/ktor-21262D.svg?style=for-the-badge&logo=kotlin" /> 
+<img src="https://img.shields.io/badge/Flutter-21262D?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Dart-21262D?style=for-the-badge&logo=dart" />
+<img src="https://img.shields.io/badge/firebase-21262D?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git" />
 
 </div>
 
