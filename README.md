@@ -3,7 +3,7 @@
 <p align="left">Let's connect!</p>
 
 <a href="https://www.instagram.com/emirdemirli/">
-    <img src="https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=B105E4" />
 </a>
 
 <a href="https://www.linkedin.com/in/emirdemirli/">
