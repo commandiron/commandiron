@@ -32,6 +32,8 @@
 
 <br>
 
-[![commandiron GitHub stats](https://github-readme-stats.vercel.app/api?username=commandiron&theme=dark)](https://github.com/commandiron/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commandiron&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=commandiron&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10)
 
 ![](https://komarev.com/ghpvc/?username=commandiron)
