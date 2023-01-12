@@ -32,8 +32,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commandiron&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=commandiron&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=commandiron&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=commandiron&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10)
 
 ![](https://komarev.com/ghpvc/?username=commandiron)
