@@ -3,16 +3,14 @@
 <p align="left">Let's connect!</p>
     
 <a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
-    <img src="https://img.shields.io/badge/whatsapp-21262D.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25d366" >
-
+    <img src="https://img.shields.io/badge/whatsapp-21262D.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25d366" />
+</a>    
 <a href="https://www.instagram.com/emirdemirli/">
     <img src="https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=F206CB" />
 </a>
-
 <a href="https://www.linkedin.com/in/emirdemirli/">
     <img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 </a>
-
 <a href="https://stackoverflow.com/users/12441504/commandiron">
     <img src="https://img.shields.io/badge/Stack_Overflow-21262D?style=for-the-badge&logo=stack-overflow" />
 </a>
