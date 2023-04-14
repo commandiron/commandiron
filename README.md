@@ -8,7 +8,7 @@
 <br>
 
 <div align="left">
-<p align="left">Let's connect!</p>
+<p align="left">Contact</p>
     
 <a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
     <img src="https://img.shields.io/badge/whatsapp-21262D.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25d366" />
