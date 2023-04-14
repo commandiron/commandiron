@@ -1,15 +1,16 @@
 ### Hey there, I'm  Emir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-
+<br>
     
 <a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
+    
 <img src="https://drive.google.com/uc?export=view&id=10Oi_g7PnvXqKhGnxOnw_f6bXmV3pouJ-" />
  
 <br>
+<br>
 
-<div align="left">
+<div>
 <p align="left">Contact</p>
-    
 <a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
     <img src="https://img.shields.io/badge/whatsapp-21262D.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25d366" />
 <a href="https://www.instagram.com/emirdemirli/">
@@ -22,9 +23,8 @@
 
 <br>
 
-<div align="left">
+<div>
 <p align="left">Tools & Technology</p>
-
 <img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android" />
 <img src="https://img.shields.io/badge/kotlin-21262D?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/ktor-21262D?style=for-the-badge&logo=kotlin" /> 
