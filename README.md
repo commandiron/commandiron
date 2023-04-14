@@ -2,9 +2,8 @@
 
 <br>
     
-<a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
-    
-<img src="https://drive.google.com/uc?export=view&id=10Oi_g7PnvXqKhGnxOnw_f6bXmV3pouJ-" />
+<a href="https://qrprojem.demirli.tech">   
+    <img src="https://drive.google.com/uc?export=view&id=10Oi_g7PnvXqKhGnxOnw_f6bXmV3pouJ-" />
  
 <br>
 <br>
