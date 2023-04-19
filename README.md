@@ -2,7 +2,7 @@
 
 <br>
     
-<a href="https://qrprojem.demirli.tech">   
+<a href="https://qrprojem.com">   
     <img src="https://drive.google.com/uc?export=view&id=10Oi_g7PnvXqKhGnxOnw_f6bXmV3pouJ-" />
  
 <br>
