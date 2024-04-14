@@ -1,10 +1,11 @@
 ### Hey there, I'm  Emir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+#### Portfolio
 
 [![Dark Mode Image](https://drive.google.com/uc?export=view&id=1w7wzKGiqJOBunCbxyxep52iX6Rvxa2JY)](https://solid-951de.web.app#gh-dark-mode-only)
 [![Light Mode Image](https://drive.google.com/uc?export=view&id=1N4UaZsdpiu2PCpzvx3JkjEkEJMqDJkRO)](https://solid-951de.web.app#gh-light-mode-only)
 
+#### Contact
 <div>
-<p align="left">Contact</p>
 <a href="https://api.whatsapp.com/send?phone=905355085552&text=Hi!">
     <img src="https://img.shields.io/badge/whatsapp-21262D.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25d366" />
 <a href="https://www.instagram.com/emirdemirli/">
@@ -15,10 +16,8 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-21262D?style=for-the-badge&logo=stack-overflow" />
 </div>
 
-<br>
-
+#### Tools & Technology
 <div>
-<p align="left">Tools & Technology</p>
 <img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android" />
 <img src="https://img.shields.io/badge/kotlin-21262D?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/ktor-21262D?style=for-the-badge&logo=kotlin" /> 
