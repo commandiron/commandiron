@@ -1,6 +1,6 @@
 ### Hey there, I'm  Emir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-#### Portfolio & Personal Brand
+#### Personal Brand & Portfolio
 [![Dark Mode Image](https://drive.google.com/uc?export=view&id=1w7wzKGiqJOBunCbxyxep52iX6Rvxa2JY)](https://solid-951de.web.app#gh-dark-mode-only)
 [![Light Mode Image](https://drive.google.com/uc?export=view&id=1N4UaZsdpiu2PCpzvx3JkjEkEJMqDJkRO)](https://solid-951de.web.app#gh-light-mode-only)
 
